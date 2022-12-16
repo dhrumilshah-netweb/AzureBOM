@@ -172,6 +172,7 @@
     <Content Include="Views\Crud\Index.cshtml" />
     <Content Include="Views\Crud\Create.cshtml" />
     <Content Include="Views\Crud\Edit.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
